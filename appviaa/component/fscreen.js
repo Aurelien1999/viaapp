@@ -26,8 +26,8 @@ export default class fscreen extends React.Component {
                     </View>
                 </View>
                 <Image 
-                    style= {{height: 200, width: 200, left: 100, top: 100}}
-                    source={{uri : 'https://www.hicom.fr/wp-content/uploads/2017/09/Logo_TV_2015.png'}}
+                    style= {{height: 100, width: 330, left: 30, top: 100}}
+                    source={{uri : 'https://vrcentrs.lv/wp-content/uploads/2020/08/Untitled-2.fw_.png'}}
                 />
                 <View style= {{top: 230, flexDirection: 'row', justifyContent: 'center'}}>
                     <View style= {{height: 15, width: 15, borderRadius: 50, right: 10, backgroundColor: 'black'}}></View>
